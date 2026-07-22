@@ -71,6 +71,7 @@ Below are live production screenshots of the interactive Streamlit Churn Analysi
 └────────────────────────────────────────┘
 
 ---
+
 ## 🛠️ Tech Stack & Libraries
 Core Language: Python 3.10+
 
@@ -83,6 +84,7 @@ Visualization: Seaborn, Matplotlib, Plotly
 Deployment & UI: Streamlit / FastAPI
 
 ---
+
 ##🚀 Quick Start Guide
 1. Clone & Setup
 git clone [https://github.com/saqer-alabdallat/Telco-Customer-Churn.git](https://github.com/saqer-alabdallat/Telco-Customer-Churn.git)
